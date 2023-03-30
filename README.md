@@ -9,4 +9,7 @@ git push origin master
 6. git reset index.html
 7. git reset --hard
 8. git diff
-9. git diff index.htm
+9. git diff index.html
+10. git branch
+11. git branch develop <- develop - это пример
+12. git checkout develop
