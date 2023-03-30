@@ -3,3 +3,10 @@
 3. git commit -m "comment"
 4. git log / git log --oneline
 5. git push [rep_link] [branch_name]
+
+git push origin master
+
+6. git reset index.html
+7. git reset --hard
+8. git diff
+9. git diff index.htm
