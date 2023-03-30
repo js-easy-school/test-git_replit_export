@@ -13,3 +13,5 @@ git push origin master
 10. git branch
 11. git branch develop <- develop - это пример
 12. git checkout develop
+13. git branch -d developgit 
+
